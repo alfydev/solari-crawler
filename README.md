@@ -11,7 +11,7 @@ You need a few command line utils for this application to work.
   
 
 You also need:
-* A working local Wordpress installation, whose /wp-content/uploads/ directory is writable by the user running the application
+* A working local Wordpress installation, whose /wp-content/uploads/ directory branch is writable by the user running the application
 * A /tmp/ directory writable by the user running the application
 
 # Test & Execution
