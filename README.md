@@ -1,7 +1,7 @@
 # solari-crawler
 This custom application in bash will crawl home.solari.com for posts and import them in a locally-installed Wordpress instance, with the correct categories and original URL meta field.
 
-# Dependencies and Requirements
+# Requirements
 You need a few command line utils for this application to work.
 * jq (do `apt install jq` or see: https://jqlang.github.io/jq/download/)
 * curl (do `apt install curl`or see: https://curl.se/download.html)
@@ -14,7 +14,7 @@ You also need:
 * A working local Wordpress installation, whose /wp-content/uploads/ directory is writable by the user running the application
 * A /tmp/ directory writable by the user running the application
 
-# Installation
+# Test & Execution
 
 Clone the repository (provide the appropriate credentials if requested):
 
@@ -30,10 +30,22 @@ Test the application:
 
   ```./make.sh```
 
-Address and fix any error message (usually dependency issues) and re-execute until it says "All checks passed, you are ready to execute the application". You are then ready to execute the application:
+Address and fix any error message (usually dependency issues) and re-execute until it says "All checks passed, you are ready to execute the application". 
+
+To execute the application:
 
   ```./make.sh run```
 
+Check the logfile specified in `config.sh` for any debug information. You should see the missing posts being added to the local Wordpress instance.
+
 When you have confirmed the application is running smoothly, you can add it to a daily crontab.
+
+# Updating
+From the root directory of the application (`solari-crawler`), just run:
+
+  ```git pull```
+
+
+
 
 
