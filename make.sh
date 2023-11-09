@@ -7,6 +7,7 @@ if [ "$(whoami)" == "root" ] ; then
         exit
 fi
 
+cd $(dirname $0)
 
 chmod u+x *.sh bin/*.sh 2> /dev/null
 
@@ -66,7 +67,6 @@ if [ ! -x "$(which hxclean)" ] || [ ! -x "$(which hxselect)" ] || [ ! -x "$(whic
 	echo "Error: you need html-xml-utils installed (hxselect, hxclean and hxnormalize executable in your path). Do apt install html-xml-utils or see: https://www.w3.org/Tools/HTML-XML-utils/"
 	exit
 fi
-
 
 echo "... checking Wordpress command line interface"
 if [ ! -x "$(which wp)" ] || [ "$(wp cli version | grep "WP-CLI" | wc -l)" -eq 0 ] ; then
