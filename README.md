@@ -41,9 +41,11 @@ Check the logfile specified in `config.sh` for any debug information. You should
 When you have confirmed the application is running smoothly, you can add it to a daily crontab.
 
 # Updating
-From the root directory of the application (`solari-crawler`), just run:
+First make sure you back-up your config.sh file. Then from the root directory of the application (`solari-crawler`), run:
 
   ```git pull```
+
+And restore the config.sh. The application is up-to-date.
 
 
 
