@@ -24,7 +24,7 @@ Clone the repository (provide the appropriate credentials if requested):
   chmod +x make.sh
   ```
 
-Edit the `config.sh` file and modify the variables according to the specifities of your instance.
+Edit the `config.sh` file and modify the variables according to the specificities of your instance.
 
 Test the application:
 
