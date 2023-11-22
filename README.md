@@ -24,7 +24,7 @@ Clone the repository (provide the appropriate credentials if requested):
   chmod +x make.sh
   ```
 
-Edit the `config.sh` file and modify the variables according to the specificities of your instance.
+Rename `config.sh.example` into `config.sh`, and edit the file and modify the variables according to the specificities of your instance. Make sure you input the base64-encoded value of the password, not the password itself (get with: `echo "mypassword" | base64`)
 
 Test the application:
 

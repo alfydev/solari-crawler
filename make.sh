@@ -74,6 +74,12 @@ if [ ! -x "$(which wp)" ] || [ "$(wp cli version | grep "WP-CLI" | wc -l)" -eq 0
 	exit
 fi
 
+echo "... checking coreutils"
+if [ ! -x "$(which base64)" ]; then
+	echo "Error: base64 command not found. Install with apt install coreutils or see: https://www.gnu.org/software/coreutils/"
+	exit
+fi
+
 
 ### LOCAL DEPENDENCIES
 echo "Checking local dependencies"
@@ -149,6 +155,14 @@ echo "... checking that username and password are defined"
 
 if [ -z "$solari_username" ] || [ -z "$solari_password" ] ; then
 	echo "Error: solari username and/or password not defined in config.sh"
+	exit
+fi
+
+echo "... checking password encoding"
+
+decode=$(echo "$solari_password" | base64 --decode 2>&1)
+if [ $? -ne 0 ] || [ "$(echo $decode | grep "invalid input" | wc -l)" -ne 0 ] ; then
+	echo "Something went wrong while trying to decode password "$solari_password" in config.sh"
 	exit
 fi
 

@@ -1,0 +1,353 @@
+[
+  {
+    "id": 96,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/bank-of-england/",
+    "name": "Bank of England",
+    "slug": "bank-of-england",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/96"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=96"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 97,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/derivatives/",
+    "name": "derivatives",
+    "slug": "derivatives",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/97"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=97"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 98,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/fed/",
+    "name": "Fed",
+    "slug": "fed",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/98"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=98"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/financial-coup-detat/",
+    "name": "financial coup d'etat",
+    "slug": "financial-coup-detat",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/99"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=99"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "count": 1,
+    "description": "",
+    "link": "https://home.solari.com/tag/https-home-solari-com-wp-admin-post-phppost111385actionedit/",
+    "name": "https://home.solari.com/wp-admin/post.php?post=111385&amp;action=edit#",
+    "slug": "https-home-solari-com-wp-admin-post-phppost111385actionedit",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/94"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=94"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/interest-rates/",
+    "name": "interest rates",
+    "slug": "interest-rates",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/100"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=100"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 101,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/jp-morgan-chase/",
+    "name": "JP Morgan Chase",
+    "slug": "jp-morgan-chase",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/101"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=101"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/money-markets/",
+    "name": "Money &amp; Markets",
+    "slug": "money-markets",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/102"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=102"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 103,
+    "count": 0,
+    "description": "",
+    "link": "https://home.solari.com/tag/money-and-markets-2/",
+    "name": "money and markets",
+    "slug": "money-and-markets-2",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags/103"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://home.solari.com/wp-json/wp/v2/posts?tags=103"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
