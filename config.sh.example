@@ -1,5 +1,5 @@
 #!/bin/bash
-# Use this file to configure the environment variables needed by the application
+# Use this file to configure the environment variables needed by the crawler
 
 # base directory of the local Wordpress install
 export wpbasedir="/var/www/search/"
